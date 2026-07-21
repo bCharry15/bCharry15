@@ -106,5 +106,5 @@ arquitectura de aplicaciones, DevOps y tecnologías cloud.
 ## 📫 Contacto
 
 - GitHub: [@bCharry15](https://github.com/bCharry15)
-- LinkedIn: Agrega aquí el enlace de tu perfil de LinkedIn
-- Correo: Agrega aquí tu correo profesional
+- LinkedIn: https://www.linkedin.com/in/brayan-charry-53b4b0310/
+- Correo: brayancharry1215@gmail.com
