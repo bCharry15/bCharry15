@@ -1,26 +1,23 @@
 <h1 align="center">Hi, I'm Brayan Stiven Charry Vela 👋</h1>
 
 <h3 align="center">
-Systems Engineering Student | Backend Development | Java, Spring Boot and AI Applications
+Systems Engineering Student | Backend Development | Java, Spring Boot and AI
 </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Systems Engineering student interested in software development,
-application architecture, artificial intelligence, and building scalable solutions.
+I am a Systems Engineering student interested in backend development, software
+architecture, artificial intelligence, DevOps, and cloud technologies.
 
-- 💻 I primarily develop applications using Java and Spring Boot.
-- 🤖 I am currently building AI applications with Python, LangChain, LangGraph, Streamlit, and Google Gemini.
+- 💻 I develop applications with Java, Spring Boot, and Python.
 - 🏗️ I have academic experience with monolithic and microservices architectures.
-- 🔗 I have worked with REST APIs and communication between distributed services.
-- 🐳 I use Docker and Docker Compose to create reproducible development environments.
-- 🔐 I have implemented authentication and authorization using Keycloak.
-- 🗄️ I have experience with relational databases such as MariaDB and MySQL.
-- 🧠 I am learning about AI agents, prompt engineering, structured outputs, conversational memory, and RAG systems.
-- ☁️ I am strengthening my knowledge of backend development, DevOps, cloud computing, and CI/CD.
-- 🤝 I am interested in collaborative software projects where I can continue learning and contributing.
+- 🤖 I am building AI applications with LangChain, LangGraph, Streamlit, and Google Gemini.
+- 🐳 I use Docker and Docker Compose to create reproducible environments.
+- 🔐 I have worked with Keycloak authentication and authorization.
+- 🗄️ I have experience with MariaDB and MySQL.
+- 🤝 I enjoy learning, collaborating, and building practical software solutions.
 
 ---
 
@@ -30,8 +27,6 @@ application architecture, artificial intelligence, and building scalable solutio
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
-<img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
 <img src="https://img.shields.io/badge/LangGraph-20232A?style=for-the-badge&logoColor=white">
@@ -48,109 +43,55 @@ application architecture, artificial intelligence, and building scalable solutio
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 🏥 Piedra Azul — Medical Appointment Management Platform
+### 🏥 Piedra Azul — Medical Appointment Platform
 
-A medical appointment scheduling and management system developed as an academic
-Systems Engineering project.
+A medical appointment management system that evolved from a monolithic
+application into a microservices-oriented architecture.
 
-The project evolved from a monolithic desktop application into a
-microservices-oriented architecture.
+**Technologies:** Java, JavaFX, Spring Boot, REST APIs, Docker Compose, Keycloak,
+MariaDB, and Maven.
 
-### Technologies Used
+🔗 [View Piedra Azul](https://github.com/bCharry15/Sprint3-PiedrAzul)
 
-- Java
-- JavaFX
-- Spring Boot
-- Microservices
-- REST APIs
-- Docker Compose
-- Keycloak
-- MariaDB
-- Maven
+### 🤖 LangChain, LangGraph and AI Projects
 
-### Main Features
+A collection of projects developed while learning how to build generative AI
+applications with Python.
 
-- User management.
-- Authentication and authorization.
-- Patient and medical staff administration.
-- Medical appointment creation and management.
-- Communication between microservices.
-- Data persistence using relational databases.
-- Local deployment with Docker Compose.
+Current projects include an AI CV analyzer and a configurable chatbot with
+conversation history and multiple assistant personalities.
 
-🔗 [View Piedra Azul Project](https://github.com/bCharry15/Sprint3-PiedrAzul)
+**Technologies:** Python, LangChain, LangGraph, Google Gemini, Streamlit, and Pydantic.
 
----
-
-## 🤖 AI Projects
-
-### LangChain, LangGraph and AI Agents Projects
-
-A collection of practical projects developed while learning how to build
-generative AI applications with Python.
-
-The repository currently includes:
-
-- An AI-powered CV analyzer.
-- A configurable chatbot with multiple assistant personalities.
-- Google Gemini integration through LangChain.
-- Structured AI responses.
-- Conversation history using Streamlit session state.
-- Secure API key management using environment variables.
-
-### Technologies Used
-
-- Python
-- LangChain
-- LangGraph
-- Google Gemini
-- Streamlit
-- Pydantic
-- Prompt engineering
-- Large Language Models
-
-🔗 [View AI Projects Repository](https://github.com/bCharry15/langchain-langgraph-ai-projects)
+🔗 [View AI Projects](https://github.com/bCharry15/langchain-langgraph-ai-projects)
 
 ---
 
 ## 📌 Other Projects
 
 - 🎨 [Creational Design Patterns — Builder](https://github.com/bCharry15/TALLER-PATRONES-DE-DISENO-CREACIONALES-BUILDER)
-- 🧩 [Template Method and State Design Patterns](https://github.com/bCharry15/Taller-Patrones-Templated-and-State)
+- 🧩 [Template Method and State Patterns](https://github.com/bCharry15/Taller-Patrones-Templated-and-State)
 - 📂 [Academic Projects](https://github.com/bCharry15/projects)
 
 ---
 
 ## 📚 Currently Learning
 
-- LangChain and LangGraph.
 - AI agents and multi-agent systems.
-- Prompt engineering.
-- Retrieval-Augmented Generation.
-- Vector databases and semantic search.
-- Conversational memory.
-- Structured outputs with Pydantic.
-- Integration of Large Language Models with external tools.
-- Unit and integration testing.
-- Continuous Integration and Continuous Deployment.
+- Prompt engineering and RAG.
+- Backend and REST API development.
 - Software architecture.
-- REST API development.
-- Cloud computing.
-- DevOps practices.
-- Software development best practices.
+- Testing and CI/CD.
+- DevOps and cloud computing.
 
 ---
 
 ## 🎯 Professional Goals
 
-I aim to continue strengthening my skills as a software developer by participating
-in real-world projects and gaining professional experience in backend development,
-software architecture, artificial intelligence, DevOps, and cloud technologies.
-
-My goal is to build reliable, scalable, and maintainable applications while
-continuously learning modern development practices and emerging technologies.
+I aim to grow as a software developer by contributing to real-world projects
+in backend development, artificial intelligence, DevOps, and cloud technologies.
 
 ---
 
