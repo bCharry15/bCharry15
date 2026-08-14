@@ -70,11 +70,9 @@ conversation history and multiple assistant personalities.
 ---
 
 ## 📌 Other Projects
+Academic repository featuring Java core/GUI, Spring Boot microservices/REST APIs, web fundamentals (HTML/CSS), databases, and software design patterns.
 
-- 🎨 [Creational Design Patterns — Builder](https://github.com/bCharry15/TALLER-PATRONES-DE-DISENO-CREACIONALES-BUILDER)
-- 🧩 [Template Method and State Patterns](https://github.com/bCharry15/Taller-Patrones-Templated-and-State)
-- 📂 [Academic Projects](https://github.com/bCharry15/projects)
-
+🔗 [View Academic Projects](https://github.com/bCharry15/Academic-Projects)
 ---
 
 ## 📚 Currently Learning
