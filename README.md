@@ -70,9 +70,11 @@ conversation history and multiple assistant personalities.
 ---
 
 ## 📌 Other Projects
-Academic repository featuring Java core/GUI, Spring Boot microservices/REST APIs, web fundamentals (HTML/CSS), databases, and software design patterns.
+Academic repository featuring Java core/GUI, Spring Boot microservices/REST APIs,
+web fundamentals (HTML/CSS), databases, and software design patterns.
 
 🔗 [View Academic Projects](https://github.com/bCharry15/Academic-Projects)
+
 ---
 
 ## 📚 Currently Learning
