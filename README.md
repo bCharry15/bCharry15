@@ -85,6 +85,7 @@ conversation history and multiple assistant personalities.
 - Software architecture.
 - Testing and CI/CD.
 - DevOps and cloud computing.
+- HTML and CSS
 
 ---
 
