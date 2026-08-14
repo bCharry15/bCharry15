@@ -69,7 +69,7 @@ conversation history and multiple assistant personalities.
 
 ---
 
-## 📌 Other Projects
+## 📌 Academic Projects
 Academic repository featuring Java core/GUI, Spring Boot microservices/REST APIs,
 web fundamentals (HTML/CSS), databases, and software design patterns.
 
