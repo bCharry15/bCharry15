@@ -18,6 +18,7 @@ architecture, artificial intelligence, DevOps, and cloud technologies.
 - 🔐 I have worked with Keycloak authentication and authorization.
 - 🗄️ I have experience with MariaDB and MySQL.
 - 🤝 I enjoy learning, collaborating, and building practical software solutions.
+- 👨‍💻 I am learning Machine Learning, for neural networks.
 
 ---
 
@@ -71,7 +72,7 @@ conversation history and multiple assistant personalities.
 
 ## 📌 Academic Projects
 Academic repository featuring Java core/GUI, Spring Boot microservices/REST APIs,
-web fundamentals (HTML/CSS), databases, and software design patterns.
+web fundamentals (HTML/CSS), databases, JavaScript, Machine Learning and software design patterns.
 
 🔗 [View Academic Projects](https://github.com/bCharry15/Academic-Projects)
 
@@ -86,6 +87,7 @@ web fundamentals (HTML/CSS), databases, and software design patterns.
 - Testing and CI/CD.
 - DevOps and cloud computing.
 - HTML and CSS
+- Machine Learning
 
 ---
 
