@@ -47,7 +47,7 @@ architecture, artificial intelligence, DevOps, and cloud technologies.
 
 ## 🚀 Featured Projects
 
-### 🏥 Piedra Azul — Medical Appointment Platform
+### 🏥 Piedra Azul — Medical Desktop Application
 
 A medical appointment management system that evolved from a monolithic
 application into a microservices-oriented architecture.
@@ -89,6 +89,7 @@ web fundamentals (HTML/CSS), databases, JavaScript, Machine Learning and softwar
 - DevOps and cloud computing.
 - HTML and CSS
 - Machine Learning
+- Angular 
 
 ---
 
