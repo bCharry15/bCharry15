@@ -91,13 +91,8 @@ doctors, and patients.
 - Scheduler portal for appointment coordination.
 - Administrative management of doctors and schedulers.
 - Doctor availability configuration.
-- Appointment rescheduling and cancellation.
-- Appointment status lifecycle management.
-- Rescheduling history and traceability.
 - Role-based authentication and authorization.
 - Keycloak integration with OAuth2 and JWT.
-- English and Spanish interface support.
-- Automated backend testing.
 - Docker-based development environment.
 
 ### Architecture and Engineering
@@ -107,13 +102,7 @@ doctors, and patients.
 - REST API communication between frontend and backend.
 - Ports and adapters principles for infrastructure separation.
 - Dependency Injection and Service Layer patterns.
-- State pattern for appointment status behavior.
-- Factory pattern for user creation.
-- Repository pattern for persistence.
-- Route guards and HTTP interceptors in Angular.
-- C4 architectural modeling.
-- Automated testing using JUnit 5 and Mockito.
-- Git branching and Pull Request workflow.
+
 
 **Technologies:** Java 17, Spring Boot, Angular, TypeScript, Spring Security,
 Keycloak, OAuth2, JWT, MariaDB, Docker Compose, Maven, JUnit 5, Mockito, HTML,
