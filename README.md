@@ -71,6 +71,9 @@ to web interfaces, authentication, testing, containerization, and deployment wor
 
 ## 🚀 Featured Projects
 
+### 🛒 Supermarket-Software-System
+Coming Soon...
+
 ### 🏥 PiedraAzul — Medical Appointment Scheduling Web Application
 
 A full-stack medical appointment management and scheduling system developed as
