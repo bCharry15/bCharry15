@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Brayan Stiven Charry Vela 👋</h1>
+<h1 align="center">Hi, I'm Brayan Stiven Charry Vela </h1>
 
 <h3 align="center">
 Systems Engineering Student | Backend Development | Software Architecture | Java, Spring Boot, Angular and AI
