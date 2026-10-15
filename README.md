@@ -74,6 +74,9 @@ to web interfaces, authentication, testing, containerization, and deployment wor
 ### 🛒 Supermarket-Software-System
 Coming Soon...
 
+### 🎬🍿 FrameLog - Movie Discovery Website
+In progress...
+
 ### 🏥 PiedraAzul — Medical Appointment Scheduling Web Application
 
 A full-stack medical appointment management and scheduling system developed as
