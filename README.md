@@ -1,246 +1,285 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&duration=3500&pause=1800&color=A78BFA&center=true&vCenter=true&width=850&height=80&lines=BRAYAN+CHARRY;WELCOME+TO+MY+DEV+WORLD" width="100%" alt="Brayan Charry — Welcome to my developer world">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=23&duration=3500&pause=1800&color=A78BFA&center=true&vCenter=true&width=900&height=80&lines=BRAYAN+CHARRY;SOFTWARE+IN+PROGRESS" width="100%" alt="Brayan Charry — Software in progress">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Animated pixel art developer workspace">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/CLASS-Systems_Engineering_Student-A78BFA?style=for-the-badge&labelColor=161B22" alt="Systems Engineering Student">
-<img src="https://img.shields.io/badge/BASE-Colombia-22D3EE?style=for-the-badge&labelColor=161B22" alt="Based in Colombia">
-<img src="https://img.shields.io/badge/MODE-Learning_%26_Building-F472B6?style=for-the-badge&labelColor=161B22" alt="Learning and building">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Animated pixel art development workspace">
 
 <br><br>
 
-**Universidad del Cauca**  
-Backend development · Software architecture · Artificial intelligence
+# Brayan Stiven Charry Vela
+
+### Systems Engineering Student · Backend & Web Development
+
+**Universidad del Cauca · Colombia**
+
+Developing applications that connect business logic, usable interfaces and data.
 
 <br>
 
-<a href="#player-profile"><img src="https://img.shields.io/badge/01-PLAYER_PROFILE-A78BFA?style=for-the-badge&labelColor=161B22" alt="Player profile"></a>
-<a href="#mission-select"><img src="https://img.shields.io/badge/02-MISSIONS-22D3EE?style=for-the-badge&labelColor=161B22" alt="Projects"></a>
-<a href="#inventory"><img src="https://img.shields.io/badge/03-INVENTORY-F472B6?style=for-the-badge&labelColor=161B22" alt="Technologies"></a>
-<a href="#next-level"><img src="https://img.shields.io/badge/04-NEXT_LEVEL-FBBF24?style=for-the-badge&labelColor=161B22" alt="Learning goals"></a>
+<img src="https://img.shields.io/badge/FOCUS-Backend_Development-A78BFA?style=for-the-badge&labelColor=161B22" alt="Backend Development">
+<img src="https://img.shields.io/badge/BUILDING-Web_Applications-22D3EE?style=for-the-badge&labelColor=161B22" alt="Web Applications">
+<img src="https://img.shields.io/badge/EXPLORING-AI_%26_Data-F472B6?style=for-the-badge&labelColor=161B22" alt="AI and Data">
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/brayan-charry-53b4b0310/"><img src="https://img.shields.io/badge/LinkedIn-Connect-A78BFA?style=for-the-badge&labelColor=161B22&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:brayancharry1215@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-22D3EE?style=for-the-badge&labelColor=161B22&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/bCharry15?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-F472B6?style=for-the-badge&labelColor=161B22&logo=github&logoColor=white" alt="Repositories"></a>
+
+<br><br>
+
+[ABOUT](#about) &nbsp; / &nbsp;
+[CURRENT WORK](#current-work) &nbsp; / &nbsp;
+[PROJECTS](#selected-projects) &nbsp; / &nbsp;
+[TECHNOLOGIES](#technologies) &nbsp; / &nbsp;
+[CONTACT](#contact)
 
 </div>
 
 <br>
 
-## PLAYER PROFILE
+## About
 
-<table>
-<tr>
-<td width="65%" valign="top">
+I'm a **Systems Engineering student at Universidad del Cauca**, building practical experience through collaborative academic projects and personal software development.
 
-<h3>Brayan Stiven Charry Vela</h3>
+My main focus is **backend development with Java and Spring Boot**, including REST APIs, business rules, persistence and access control. I also work with **Angular, Vue and Go** to develop web applications and integrate external services.
 
-<p>I'm a <strong>Systems Engineering student at Universidad del Cauca</strong>, developing my skills through academic projects, personal applications and collaborative work.</p>
+Alongside software development, I explore **artificial intelligence and statistical analysis with Python**, applying these concepts to retrieval workflows, predictions and interactive applications.
 
-<p>My main interest is <strong>backend development with Java and Spring Boot</strong>. I enjoy understanding business rules, designing APIs and organizing software into clear responsibilities.</p>
-
-<p>I also explore <strong>Go, web development and AI with Python</strong>, connecting university concepts to practical applications.</p>
-
-</td>
-<td width="35%" valign="top">
-
-<h3>🎒 Current loadout</h3>
-
-<p><strong>Main focus</strong><br>Backend & REST APIs</p>
-
-<p><strong>Exploring</strong><br>Architecture, AI & data</p>
-
-<p><strong>Learning through</strong><br>Building, testing & collaboration</p>
-
-<p><strong>Open to</strong><br>Student projects & exchanging ideas</p>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<i>Every project is an opportunity to understand more and build better.</i>
-
-</div>
+I care about understanding the decisions behind an implementation: how responsibilities are separated, how information is protected and how the application can evolve.
 
 <br>
 
-## MISSION SELECT
-
-**Choose a project. Open its mission briefing to explore the technical details.**
+## Current work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/MISSION_01-HEALTHCARE-A78BFA?style=for-the-badge&labelColor=161B22" alt="Mission 01 Healthcare">
+<h3>⚙️ Backend & application development</h3>
 
-<h3>🏥 PiedraAzul</h3>
+<p>Developing APIs and application logic with <strong>Java, Spring Boot and Go</strong>.</p>
 
-<p><strong>Bring medical scheduling into one application.</strong></p>
-
-<p>A team academic project with role-based portals, doctor availability and appointment management.</p>
-
-<p><code>Java</code> <code>Spring Boot</code><br><code>Angular</code> <code>MariaDB</code></p>
-
-<details>
-<summary><strong>▸ Open mission briefing</strong></summary>
-<br>
-<p><strong>Features</strong></p>
-<ul>
-<li>Appointment scheduling, rescheduling and cancellation.</li>
-<li>Doctor availability and time-slot management.</li>
-<li>Administrator, scheduler, doctor and patient portals.</li>
-<li>Appointment history and CSV exports.</li>
-</ul>
-<p><strong>Architecture:</strong> Spring Boot modular monolith with ports and adapters.</p>
-<p><strong>Security:</strong> Keycloak, JWT validation and role-based authorization.</p>
-<p><strong>Learning focus:</strong> modular design, access control and team development.</p>
-</details>
-
-<br>
-
-<a href="https://github.com/bCharry15/Piedrazul-Medical-Web-Application"><img src="https://img.shields.io/badge/ENTER-REPOSITORY-A78BFA?style=for-the-badge&labelColor=161B22&logo=github&logoColor=white" alt="Open PiedraAzul repository"></a>
+<p>Working with persistence, business validations, authentication and role-based authorization.</p>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/MISSION_02-MOVIE_DISCOVERY-22D3EE?style=for-the-badge&labelColor=161B22" alt="Mission 02 Movie Discovery">
+<h3>🌐 Web applications</h3>
 
-<h3>🎬 FrameLog</h3>
+<p>Connecting <strong>Angular and Vue</strong> interfaces to backend services.</p>
 
-<p><strong>Connect movie discovery with a Vue and Go application.</strong></p>
-
-<p>A personal project for browsing popular movies and exploring their details through TMDB.</p>
-
-<p><code>Vue 3</code> <code>TypeScript</code><br><code>Go</code> <code>TMDB API</code></p>
-
-<details>
-<summary><strong>▸ Open mission briefing</strong></summary>
-<br>
-<p><strong>Available features</strong></p>
-<ul>
-<li>Popular movie catalog.</li>
-<li>Individual movie pages.</li>
-<li>Synopsis, genres, runtime and TMDB ratings.</li>
-<li>Spanish-language interface.</li>
-</ul>
-<p><strong>Backend:</strong> a Go API retrieves TMDB data and keeps the API token on the server.</p>
-<p><strong>Planned:</strong> search, pagination, accounts, reviews and watchlists.</p>
-<p><strong>Learning focus:</strong> API integration and frontend–backend communication.</p>
-</details>
-
-<br>
-
-<a href="https://github.com/bCharry15/FrameLog"><img src="https://img.shields.io/badge/ENTER-REPOSITORY-22D3EE?style=for-the-badge&labelColor=161B22&logo=github&logoColor=white" alt="Open FrameLog repository"></a>
+<p>Developing forms, navigation, role-specific functionality and external API integrations.</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/MISSION_03-ENERGY_ANALYSIS-FBBF24?style=for-the-badge&labelColor=161B22" alt="Mission 03 Energy Analysis">
+<h3>🏗️ Architecture & software quality</h3>
 
-<h3>⚡ Energy Predict</h3>
+<p>Applying <strong>modular design, ports and adapters, and design patterns</strong> in academic projects.</p>
 
-<p><strong>Turn electricity consumption into understandable insights.</strong></p>
-
-<p>An academic application combining household energy estimates, statistics and simulated spending scenarios.</p>
-
-<p><code>Python</code> <code>Streamlit</code><br><code>SQLite</code> <code>Plotly</code></p>
-
-<details>
-<summary><strong>▸ Open mission briefing</strong></summary>
-<br>
-<p><strong>Features</strong></p>
-<ul>
-<li>Appliance consumption estimates.</li>
-<li>Monthly consumption records.</li>
-<li>Descriptive statistics and visualizations.</li>
-<li>Linear regression predictions.</li>
-<li>Probability and Monte Carlo simulations.</li>
-</ul>
-<p>Designed with Popayán in mind. Initial household records are <strong>synthetic demonstration data</strong>; users can enter or import their own records.</p>
-<p><strong>Learning focus:</strong> statistical modeling, uncertainty and accessible interfaces.</p>
-</details>
-
-<br>
-
-<a href="https://github.com/bCharry15/Energy_predict"><img src="https://img.shields.io/badge/ENTER-REPOSITORY-FBBF24?style=for-the-badge&labelColor=161B22&logo=github&logoColor=white" alt="Open Energy Predict repository"></a>
+<p>Using automated tests, Git and Docker Compose to support development.</p>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/MISSION_04-AI_EXPERIMENTS-F472B6?style=for-the-badge&labelColor=161B22" alt="Mission 04 AI Experiments">
+<h3>🧠 AI & data applications</h3>
 
-<h3>🤖 AI Learning Lab</h3>
+<p>Exploring <strong>LangChain, LangGraph and retrieval-augmented generation</strong>.</p>
 
-<p><strong>Explore how language models connect to tools and information.</strong></p>
-
-<p>A practical learning collection focused on retrieval, conversational applications and agent workflows.</p>
-
-<p><code>Python</code> <code>LangChain</code><br><code>LangGraph</code> <code>RAG</code></p>
-
-<details>
-<summary><strong>▸ Open mission briefing</strong></summary>
-<br>
-<p><strong>Topics explored</strong></p>
-<ul>
-<li>Prompt engineering.</li>
-<li>Retrieval-Augmented Generation.</li>
-<li>Conversational memory.</li>
-<li>External tools and API integration.</li>
-<li>Agent workflows and human-in-the-loop interactions.</li>
-</ul>
-<p><strong>Learning focus:</strong> retrieval, workflow state and practical AI applications.</p>
-</details>
-
-<br>
-
-<a href="https://github.com/bCharry15/Langchain-Langgraph-Ai-Projects"><img src="https://img.shields.io/badge/ENTER-REPOSITORY-F472B6?style=for-the-badge&labelColor=161B22&logo=github&logoColor=white" alt="Open AI projects repository"></a>
+<p>Applying regression, probability and simulation to interactive data analysis with Python.</p>
 
 </td>
 </tr>
 </table>
 
+<br>
+
+## Selected projects
+
+### 🏥 PiedraAzul — Medical Appointment Management
+
+<img src="https://img.shields.io/badge/HEALTHCARE-TEAM_ACADEMIC_PROJECT-A78BFA?style=flat-square&labelColor=161B22" alt="Healthcare team academic project">
+
+A web application that centralizes medical appointment scheduling, doctor availability and appointment history through role-based portals.
+
+**Java · Spring Boot · Angular · MariaDB · Keycloak · Docker**
+
 <details>
-<summary><strong>🗺️ SIDE QUESTS — More projects and coursework</strong></summary>
+<summary><strong>Explore functionality and technical approach</strong></summary>
 
 <br>
 
-| Project | Area |
+**Application functionality**
+
+- Appointment scheduling, rescheduling and cancellation.
+- Doctor availability and appointment-slot management.
+- Dedicated portals for administrators, schedulers, doctors and patients.
+- Appointment history and traceability.
+- CSV schedule exports.
+
+**Technical approach**
+
+| Area | Implementation |
+| :--- | :--- |
+| Backend | Spring Boot modular monolith |
+| Architecture | Ports and adapters |
+| Frontend | Angular |
+| Authentication | Keycloak |
+| Authorization | JWT validation and application roles |
+| Persistence | MariaDB |
+| Development and testing | Docker Compose, JUnit 5 and Mockito |
+
+This project brings together business rules, security, modular organization and frontend–backend integration in a collaborative development environment.
+
+</details>
+
+**[Explore repository →](https://github.com/bCharry15/Piedrazul-Medical-Web-Application)**
+
+---
+
+### 🎬 FrameLog — Movie Discovery Application
+
+<img src="https://img.shields.io/badge/WEB_APPLICATION-PERSONAL_PROJECT-22D3EE?style=flat-square&labelColor=161B22" alt="Personal web application project">
+
+A personal web application for discovering movies and exploring their details, combining a Vue interface with a Go backend and TMDB integration.
+
+**Vue 3 · TypeScript · Go · REST API · TMDB**
+
+<details>
+<summary><strong>Explore implementation and development direction</strong></summary>
+
+<br>
+
+**Core functionality**
+
+- Popular movie catalog.
+- Individual movie pages.
+- Movie synopses, genres, runtime and TMDB ratings.
+- Spanish-language interface.
+
+**Integration approach**
+
+The Vue frontend communicates with a Go API. The backend retrieves movie information from TMDB and keeps the external API token on the server.
+
+**Development direction**
+
+Search, pagination, user accounts, personal reviews and watchlists are part of the project roadmap.
+
+The project provides a practical setting for working on API integration, application structure and communication between frontend and backend components.
+
+</details>
+
+**[Explore repository →](https://github.com/bCharry15/FrameLog)**
+
+---
+
+### ⚡ Energy Predict — Residential Energy Analysis
+
+<img src="https://img.shields.io/badge/DATA_ANALYSIS-ACADEMIC_PROJECT-FBBF24?style=flat-square&labelColor=161B22" alt="Academic data analysis project">
+
+An interactive application that applies statistics to household electricity consumption, helping users explore consumption patterns, predictions and spending scenarios.
+
+**Python · Streamlit · SQLite · Plotly · Statistical Modeling**
+
+<details>
+<summary><strong>Explore statistical methods and application features</strong></summary>
+
+<br>
+
+| Method | Application |
+| :--- | :--- |
+| Descriptive statistics | Summarize consumption patterns and variability |
+| Linear regression | Estimate next-month electricity consumption |
+| Probability | Evaluate the risk of exceeding consumption or budget limits |
+| Monte Carlo simulation | Explore possible consumption and bill scenarios |
+
+**Application features**
+
+- Appliance consumption estimates.
+- Monthly consumption records.
+- Interactive visualizations.
+- Electricity bill scenarios.
+- Statistical analysis and savings recommendations.
+
+The application is designed with Popayán in mind. Initial household records are **synthetic demonstration data**; users can enter or import their own records.
+
+The project connects statistical modeling with interface design and the communication of results to nontechnical users.
+
+</details>
+
+**[Explore repository →](https://github.com/bCharry15/Energy_predict)**
+
+---
+
+### 🤖 AI Applications — Retrieval & Agent Workflows
+
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-PRACTICAL_EXPERIMENTS-F472B6?style=flat-square&labelColor=161B22" alt="Practical artificial intelligence experiments">
+
+A collection of Python projects and exercises exploring language models, document retrieval, conversational applications and agent workflows.
+
+**Python · LangChain · LangGraph · RAG**
+
+<details>
+<summary><strong>Explore technical topics</strong></summary>
+
+<br>
+
+- Prompt engineering.
+- Retrieval-Augmented Generation.
+- Conversational memory.
+- External tools and API integration.
+- Workflow orchestration with LangGraph.
+- Human-in-the-loop interactions.
+
+The collection documents my learning process as I explore how language models can interact with information sources and application tools.
+
+</details>
+
+**[Explore repository →](https://github.com/bCharry15/Langchain-Langgraph-Ai-Projects)**
+
+<br>
+
+<details>
+<summary><strong>📂 Additional projects and academic work</strong></summary>
+
+<br>
+
+| Repository | Focus |
 | :--- | :--- |
 | [Academic Projects](https://github.com/bCharry15/Academic-Projects) | Programming, databases, patterns, distributed systems and machine learning |
 | [PiedraAzul Desktop](https://github.com/bCharry15/Piedrazul-Medical-Desktop-Application) | Desktop application development |
 | [Microkernel Pipelines](https://github.com/bCharry15/Microkernel-Pipelines) | Software architecture coursework |
 
-[Explore the complete map →](https://github.com/bCharry15?tab=repositories)
+[View all repositories →](https://github.com/bCharry15?tab=repositories)
 
 </details>
 
 <br>
 
-## INVENTORY
+## Technologies
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PRIMARY_EQUIPMENT-BACKEND-A78BFA?style=for-the-badge&labelColor=161B22" alt="Backend technologies">
+<img src="https://img.shields.io/badge/BACKEND_%26_LANGUAGES-A78BFA?style=for-the-badge&labelColor=161B22" alt="Backend and languages">
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=java,spring,go,python&theme=dark" alt="Java, Spring, Go and Python">
+<img src="https://skillicons.dev/icons?i=java,spring,go,python,ts&theme=dark" alt="Java, Spring, Go, Python and TypeScript">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/WEB_TOOLKIT-FRONTEND-22D3EE?style=for-the-badge&labelColor=161B22" alt="Frontend technologies">
+<img src="https://img.shields.io/badge/FRONTEND_%26_WEB-22D3EE?style=for-the-badge&labelColor=161B22" alt="Frontend and web">
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=angular,vue,ts,html,css&theme=dark" alt="Angular, Vue, TypeScript, HTML and CSS">
+<img src="https://skillicons.dev/icons?i=angular,vue,html,css,vite&theme=dark" alt="Angular, Vue, HTML, CSS and Vite">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SUPPORT_ITEMS-DATA_%26_TOOLS-F472B6?style=for-the-badge&labelColor=161B22" alt="Data and development tools">
+<img src="https://img.shields.io/badge/DATA_%26_DEVELOPMENT-F472B6?style=for-the-badge&labelColor=161B22" alt="Data and development">
 
 <br><br>
 
@@ -251,87 +290,53 @@ Backend development · Software architecture · Artificial intelligence
 <br>
 
 <details>
-<summary><strong>📖 Open equipment descriptions</strong></summary>
+<summary><strong>View additional tools and concepts</strong></summary>
 
 <br>
 
-| Category | Technologies and concepts used across my projects |
+| Area | Project experience |
 | :--- | :--- |
-| Backend | Java, Spring Boot, Go, REST APIs |
-| Frontend | Angular, Vue 3, TypeScript, HTML, CSS, SCSS |
-| Databases | MariaDB, MySQL, SQLite |
+| Architecture | Modular monoliths, ports and adapters, design patterns |
 | Security | Spring Security, Keycloak, OAuth2, JWT |
+| Databases | MariaDB, MySQL, SQLite |
 | Testing | JUnit 5, Mockito |
-| Development | Git, GitHub, Docker, Docker Compose, Maven, Vite |
-| AI and analysis | LangChain, LangGraph, Streamlit, Plotly |
+| AI | LangChain, LangGraph, retrieval workflows |
+| Data applications | Streamlit, Plotly, regression, probability and simulation |
+| Development | Git, Docker Compose, Maven, Vite |
 
 </details>
 
 <br>
 
-## NEXT LEVEL
+## Development goals
 
-**My learning objectives for the next stage.**
+I'm continuing to strengthen the foundations behind the applications I build:
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🏗️ Architecture</h3>
-<p>Strengthen my understanding of modular systems, design patterns and distributed applications.</p>
-
-<h3>⚙️ Backend quality</h3>
-<p>Improve validation, automated testing and maintainability in Java and Go applications.</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🧠 AI applications</h3>
-<p>Explore evaluation, retrieval quality and more reliable agent workflows.</p>
-
-<h3>🚀 Delivery</h3>
-<p>Connect testing, containers and version control through CI/CD and cloud deployment.</p>
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><strong>💾 SAVE POINT — How I approach learning</strong></summary>
+- **Backend quality:** validation, testing and maintainable application logic.
+- **Software architecture:** modularity, design tradeoffs and distributed systems.
+- **AI applications:** retrieval quality, evaluation and workflow reliability.
+- **Delivery:** CI/CD, containers and cloud deployment.
 
 <br>
 
-1. Understand the problem and the concepts behind it.
-2. Build a practical implementation.
-3. Test the behavior and recognize its limitations.
-4. Document the decisions and improve the result.
-
-My repositories document this process as I continue developing my skills.
-
-</details>
-
-<br>
-
-## MULTIPLAYER
+## Contact
 
 <div align="center">
 
-### Good projects also need good teammates.
+### Let's build and learn together.
 
-I'm open to **student collaborations, backend projects and AI experiments**.
-
-Let's share ideas, learn from each other and build something useful.
+I'm interested in **software development opportunities, collaborative projects and technical conversations** about backend development, web applications and AI.
 
 <br>
 
-<a href="https://www.linkedin.com/in/brayan-charry-53b4b0310/"><img src="https://img.shields.io/badge/ADD_CONNECTION-LINKEDIN-A78BFA?style=for-the-badge&labelColor=161B22&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-<a href="mailto:brayancharry1215@gmail.com"><img src="https://img.shields.io/badge/SEND_MESSAGE-EMAIL-22D3EE?style=for-the-badge&labelColor=161B22&logo=gmail&logoColor=white" alt="Send an email"></a>
+<a href="https://www.linkedin.com/in/brayan-charry-53b4b0310/"><img src="https://img.shields.io/badge/LinkedIn-Brayan_Charry-A78BFA?style=for-the-badge&labelColor=161B22&logo=linkedin&logoColor=white" alt="Brayan Charry on LinkedIn"></a>
+<a href="mailto:brayancharry1215@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_connect-22D3EE?style=for-the-badge&labelColor=161B22&logo=gmail&logoColor=white" alt="Contact by email"></a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=2000&color=F472B6&center=true&vCenter=true&width=700&height=60&lines=THANKS+FOR+VISITING!;THE+NEXT+PROJECT+IS+LOADING..." width="100%" alt="Thanks for visiting. The next project is loading.">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3500&pause=2000&color=A78BFA&center=true&vCenter=true&width=800&height=60&lines=LEARNING.+DEVELOPING.+IMPROVING.;BUILDING+MY+NEXT+PROJECT..." width="100%" alt="Learning, developing and improving">
 
-[↑ Return to player profile](#player-profile)
+[↑ Back to about](#about)
 
 <sub>Pixel art animation shared through <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">Cool GIFs for GitHub</a>.</sub>
 
