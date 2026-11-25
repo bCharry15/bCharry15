@@ -31,56 +31,72 @@ I'm **Brayan Stiven Charry Vela**, a **Systems Engineering student at Universida
 
 ---
 
-### `// SELECTED PROJECTS`
+### `// WHOAMI`
+
+```bash
+brayan@cauca:~$ whoami
+> Systems Engineering student · Universidad del Cauca
+
+brayan@cauca:~$ focus --now
+> Backend · Software architecture · AI agents · DevOps & Cloud
+
+brayan@cauca:~$ location
+> Popayán, Colombia 🇨🇴
+```
+
+<img src="./art/divider.svg" width="100%" alt="">
+
+### `// FEATURED PROJECT`
+
+<a href="https://github.com/bCharry15/Piedrazul-Medical-Web-Application">
+  <img src="./art/card-piedraazul.svg" width="100%" alt="PiedraAzul — Medical Appointment Management">
+</a>
+
+<details>
+<summary><b>🔍 PiedraAzul at a glance (architecture & roles)</b></summary>
+
+<br>
+
+```mermaid
+flowchart LR
+    U[Admin · Scheduler · Doctor · Patient] --> A[Angular SPA]
+    A -->|JWT| B[Spring Boot API]
+    K[Keycloak] -. OAuth2 / roles .-> B
+    subgraph Modular monolith
+      B --> C[Application use cases]
+      C --> D[Domain rules]
+      C --> P[Ports]
+      P --> AD[Adapters]
+    end
+    AD --> DB[(MariaDB)]
+    AD --> CSV[CSV export]
+```
+
+| Portal | What it does |
+|---|---|
+| 🛡️ Administrator | Manages users, doctors and system configuration |
+| 🗓️ Scheduler | Books and reschedules appointments |
+| 🩺 Doctor | Manages availability and sees their agenda |
+| 🙋 Patient | Requests appointments and checks history |
+
+</details>
+
+### `// MORE PROJECTS`
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🏥 <a href="https://github.com/bCharry15/Piedrazul-Medical-Web-Application">PiedraAzul</a></h4>
-      <sub>Medical Appointment Management</sub><br><br>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
-      <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"><br><br>
-      Scheduling, doctor availability, history, CSV exports, and portals for admins, schedulers, doctors, and patients. <b>Modular monolith</b> with <b>ports and adapters</b>, <b>Keycloak + JWT</b>, and <b>Docker Compose</b>.
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎬 <a href="https://github.com/bCharry15/FrameLog">FrameLog</a></h4>
-      <sub>Movie Discovery Application</sub><br><br>
-      <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
-      <img src="https://img.shields.io/badge/TMDB-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white"><br><br>
-      Spanish-language movie discovery app: <b>Vue 3</b> frontend plus a <b>Go</b> backend that queries <b>TMDB</b> and keeps API credentials safely on the server.
-    </td>
+    <td width="50%"><a href="https://github.com/bCharry15/FrameLog"><img src="./art/card-framelog.svg" width="100%" alt="FrameLog"></a></td>
+    <td width="50%"><a href="https://github.com/bCharry15/Energy_predict"><img src="./art/card-energy.svg" width="100%" alt="Energy Predict"></a></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4>⚡ <a href="https://github.com/bCharry15/Energy_predict">Energy Predict</a></h4>
-      <sub>Residential Energy Analysis</sub><br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
-      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"><br><br>
-      Analytics for residential electricity use in Popayán: <b>linear regression</b>, exceedance probability, and <b>Monte Carlo simulations</b> for bill scenarios.
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/bCharry15/Langchain-Langgraph-Ai-Projects">AI Applications</a></h4>
-      <sub>Retrieval & Agent Workflows</sub><br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
-      <img src="https://img.shields.io/badge/LangGraph-7C3AED?style=flat-square">
-      <img src="https://img.shields.io/badge/RAG-DB2777?style=flat-square"><br><br>
-      <b>Retrieval-Augmented Generation</b>, conversational memory, external tools, stateful <b>LangGraph</b> orchestration, and <i>human-in-the-loop</i> flows.
-    </td>
+    <td width="50%"><a href="https://github.com/bCharry15/Langchain-Langgraph-Ai-Projects"><img src="./art/card-ai.svg" width="100%" alt="AI Applications"></a></td>
+    <td width="50%"><a href="https://github.com/bCharry15/Academic-Projects"><img src="./art/card-academic.svg" width="100%" alt="Academic Projects"></a></td>
   </tr>
 </table>
 
-**More repositories & academic work →**
-[Academic Projects](https://github.com/bCharry15/Academic-Projects) · [PiedraAzul Desktop](https://github.com/bCharry15/Piedrazul-Medical-Desktop-Application) · [Microkernel Pipelines](https://github.com/bCharry15/Microkernel-Pipelines)
+**Also:** [PiedraAzul Desktop](https://github.com/bCharry15/Piedrazul-Medical-Desktop-Application) · [Microkernel Pipelines](https://github.com/bCharry15/Microkernel-Pipelines)
 
----
+<img src="./art/divider.svg" width="100%" alt="">
 
 ### `// TECH STACK`
 
@@ -100,16 +116,21 @@ I'm **Brayan Stiven Charry Vela**, a **Systems Engineering student at Universida
 
 <div align="center">
 
+<!-- GitSkins: tarjetas animadas con tus datos reales de GitHub -->
+<img src="https://www.gitskins.com/api/section/stats?username=bCharry15&theme=cyber&style=aura" alt="GitSkins stats" width="100%">
+
+<img src="https://www.gitskins.com/api/section/heatmap?username=bCharry15&theme=cyber&style=aura" alt="GitSkins contribution heatmap" width="100%">
+
+<!--
+  Opcionales (quita las flechas de comentario para probar):
+  <img src="https://www.gitskins.com/api/section/stack?username=bCharry15&theme=cyber&style=aura" alt="GitSkins stack" width="100%">
+  Temas disponibles: cyber, studio, divine, frosted, matrix
+-->
+
+<!-- Respaldo: si las tarjetas de GitSkins no cargan, usa estas
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=bCharry15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&count_private=true" alt="GitHub stats">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bCharry15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19" alt="Top languages">
-
-<br>
-
 <img src="https://streak-stats.demolab.com?user=bCharry15&theme=tokyonight&hide_border=true&background=0B0F19" alt="GitHub streak">
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bCharry15&theme=tokyo-night&hide_border=true&bg_color=0B0F19&area=true" alt="Contribution graph" width="100%">
+-->
 
 </div>
 
