@@ -1,36 +1,31 @@
+<!-- Banner animado: cambia solo entre modo claro y oscuro -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./art/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./art/header-light.svg">
+  <img alt="Brayan Charry — Systems Engineering Student · Backend & Web Developer" src="./art/header-dark.svg" width="100%">
+</picture>
+
 <div align="center">
 
-<!-- PORTADA DINÁMICA (ESTILO BANNER CON FONDO Y ONDA) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,45:4C1D95,100:0891B2&height=225&section=header&text=Brayan%20Charry&fontSize=44&fontColor=F8FAFC&fontAlignY=38&desc=Systems%20Engineering%20%C2%B7%20Backend%20%26%20Web%20Developer&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Brayan Charry Banner"/>
+[![Typing animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1400&color=38BDF8&center=true&vCenter=true&width=780&height=40&lines=Java+%26+Spring+Boot+APIs+%C2%B7+Go+Services;Angular+%26+Vue+3+Web+Applications;Applied+AI+%28LangChain%2C+LangGraph%2C+RAG%29+%26+Data)](https://github.com/bCharry15)
 
-<!-- EFECTO TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1400&color=38BDF8&center=true&vCenter=true&width=780&height=40&lines=Java+%26+Spring+Boot+APIs+%C2%B7+Go+Services;Angular+%26+Vue+3+Web+Applications;Applied+AI+%28LangChain%2C+LangGraph%2C+RAG%29+%26+Data" alt="Typing animation"/>
-
-<br>
-
-<!-- ENLACES DIRECTOS -->
-<a href="https://www.linkedin.com/in/brayan-charry-53b4b0310/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:brayancharry1215@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/bCharry15?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<a href="https://www.linkedin.com/in/brayan-charry-53b4b0310/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:brayancharry1215@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/bCharry15?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<img src="https://komarev.com/ghpvc/?username=bCharry15&label=Profile%20views&color=7C3AED&style=for-the-badge" alt="Profile views">
 
 </div>
 
-<br>
+---
 
 ### `// ABOUT & CREDENTIALS`
 
 I'm **Brayan Stiven Charry Vela**, a **Systems Engineering student at Universidad del Cauca (Colombia)** focused on **backend development, web applications, and applied AI & statistical analysis**.
 
-- **Backend & Security:** Building REST APIs, domain business rules, persistence, and role-based access control (**Java, Spring Boot, Go, Keycloak, OAuth2, JWT**).
-- **Web Interfaces:** Developing responsive applications and API integrations (**Angular, Vue 3, TypeScript**).
-- **AI & Statistical Modeling:** Exploring agentic and retrieval workflows (**LangChain, LangGraph, RAG**) alongside regression, probability, and simulation in **Python**.
-- **Architecture & Quality:** Modular monoliths, **ports and adapters**, automated testing (**JUnit 5, Mockito**), **Git**, and **Docker**.
+- 🔐 **Backend & Security:** REST APIs, domain business rules, persistence, and role-based access control (**Java, Spring Boot, Go, Keycloak, OAuth2, JWT**).
+- 🌐 **Web Interfaces:** Responsive applications and API integrations (**Angular, Vue 3, TypeScript**).
+- 🤖 **AI & Statistical Modeling:** Agentic and retrieval workflows (**LangChain, LangGraph, RAG**) plus regression, probability, and simulation in **Python**.
+- 🧱 **Architecture & Quality:** Modular monoliths, **ports and adapters**, automated testing (**JUnit 5, Mockito**), **Git**, and **Docker**.
 
 > *Focused on clear separation of responsibilities, secure access boundaries, and maintainable systems that can evolve cleanly.*
 
@@ -38,41 +33,52 @@ I'm **Brayan Stiven Charry Vela**, a **Systems Engineering student at Universida
 
 ### `// SELECTED PROJECTS`
 
-> #### 🏥 [PiedraAzul — Medical Appointment Management](https://github.com/bCharry15/Piedrazul-Medical-Web-Application)
-> `Java` · `Spring Boot` · `Angular` · `Keycloak` · `MariaDB` · `Docker`
->
-> Web platform centralizing medical appointment scheduling, doctor availability, appointment history, CSV exports, and dedicated portals for administrators, schedulers, doctors, and patients. Built as a **modular monolith** following **ports and adapters**, with **Keycloak + JWT** security, **JUnit 5 / Mockito** tests, and **Docker Compose**.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏥 <a href="https://github.com/bCharry15/Piedrazul-Medical-Web-Application">PiedraAzul</a></h4>
+      <sub>Medical Appointment Management</sub><br><br>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
+      <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"><br><br>
+      Scheduling, doctor availability, history, CSV exports, and portals for admins, schedulers, doctors, and patients. <b>Modular monolith</b> with <b>ports and adapters</b>, <b>Keycloak + JWT</b>, and <b>Docker Compose</b>.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎬 <a href="https://github.com/bCharry15/FrameLog">FrameLog</a></h4>
+      <sub>Movie Discovery Application</sub><br><br>
+      <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+      <img src="https://img.shields.io/badge/TMDB-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white"><br><br>
+      Spanish-language movie discovery app: <b>Vue 3</b> frontend plus a <b>Go</b> backend that queries <b>TMDB</b> and keeps API credentials safely on the server.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ <a href="https://github.com/bCharry15/Energy_predict">Energy Predict</a></h4>
+      <sub>Residential Energy Analysis</sub><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"><br><br>
+      Analytics for residential electricity use in Popayán: <b>linear regression</b>, exceedance probability, and <b>Monte Carlo simulations</b> for bill scenarios.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 <a href="https://github.com/bCharry15/Langchain-Langgraph-Ai-Projects">AI Applications</a></h4>
+      <sub>Retrieval & Agent Workflows</sub><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
+      <img src="https://img.shields.io/badge/LangGraph-7C3AED?style=flat-square">
+      <img src="https://img.shields.io/badge/RAG-DB2777?style=flat-square"><br><br>
+      <b>Retrieval-Augmented Generation</b>, conversational memory, external tools, stateful <b>LangGraph</b> orchestration, and <i>human-in-the-loop</i> flows.
+    </td>
+  </tr>
+</table>
 
-<br>
-
-> #### 🎬 [FrameLog — Movie Discovery Application](https://github.com/bCharry15/FrameLog)
-> `Vue 3` · `TypeScript` · `Go` · `REST API` · `TMDB`
->
-> Spanish-language movie discovery app pairing a **Vue 3** frontend with a **Go** backend that queries **TMDB** and keeps API credentials safely on the server.
-
-<br>
-
-> #### ⚡ [Energy Predict — Residential Energy Analysis](https://github.com/bCharry15/Energy_predict)
-> `Python` · `Streamlit` · `SQLite` · `Plotly`
->
-> Interactive analytics app tailored to residential electricity consumption in Popayán, combining **linear regression**, exceedance probability, and **Monte Carlo simulations** to explore usage and bill scenarios.
-
-<br>
-
-> #### 🤖 [AI Applications — Retrieval & Agent Workflows](https://github.com/bCharry15/Langchain-Langgraph-Ai-Projects)
-> `Python` · `LangChain` · `LangGraph` · `RAG`
->
-> Hands-on projects exploring **Retrieval-Augmented Generation**, conversational memory, external tools, stateful **LangGraph** orchestration, and *human-in-the-loop* flows.
-
-<details>
-<summary><strong>More repositories & academic work →</strong></summary>
-<br>
-
-- **[Academic Projects](https://github.com/bCharry15/Academic-Projects)** — Programming, databases, design patterns, distributed systems, and machine learning.
-- **[PiedraAzul Desktop](https://github.com/bCharry15/Piedrazul-Medical-Desktop-Application)** — Desktop application development.
-- **[Microkernel Pipelines](https://github.com/bCharry15/Microkernel-Pipelines)** — Software architecture coursework.
-
-</details>
+**More repositories & academic work →**
+[Academic Projects](https://github.com/bCharry15/Academic-Projects) · [PiedraAzul Desktop](https://github.com/bCharry15/Piedrazul-Medical-Desktop-Application) · [Microkernel Pipelines](https://github.com/bCharry15/Microkernel-Pipelines)
 
 ---
 
@@ -80,20 +86,39 @@ I'm **Brayan Stiven Charry Vela**, a **Systems Engineering student at Universida
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,go,python,ts,angular,vue,mysql,sqlite,docker,git,github,maven,vite&perline=7&theme=dark" alt="Tech Stack"/>
+[![Tech Stack](https://skillicons.dev/icons?i=java,spring,go,python,ts,angular,vue,mysql,sqlite,docker,git,github,maven,vite&perline=7&theme=dark)](https://skillicons.dev)
 
-<br><br>
-
-![Architecture](https://img.shields.io/badge/Architecture-Ports_%26_Adapters_%7C_Modular_Monolith-7C3AED?style=flat-square&labelColor=0F172A)
-![Security](https://img.shields.io/badge/Auth-Keycloak_%7C_OAuth2_%7C_JWT-0284C7?style=flat-square&labelColor=0F172A)
-![AI](https://img.shields.io/badge/AI_%26_Data-LangChain_%7C_LangGraph_%7C_RAG-DB2777?style=flat-square&labelColor=0F172A)
+<img src="https://img.shields.io/badge/Architecture-Ports_&_Adapters_|_Modular_Monolith-7C3AED?style=flat-square&labelColor=0F172A">
+<img src="https://img.shields.io/badge/Auth-Keycloak_|_OAuth2_|_JWT-0284C7?style=flat-square&labelColor=0F172A">
+<img src="https://img.shields.io/badge/AI_&_Data-LangChain_|_LangGraph_|_RAG-DB2777?style=flat-square&labelColor=0F172A">
 
 </div>
 
-<br>
+---
+
+### `// GITHUB STATS`
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,55:4C1D95,100:0B0F19&height=110&section=footer&text=Popay%C3%A1n%2C%20Colombia%20%C2%B7%20Open%20to%20Opportunities&fontSize=16&fontColor=F8FAFC&fontAlignY=62" width="100%" alt="Footer Banner"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bCharry15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&count_private=true" alt="GitHub stats">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bCharry15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19" alt="Top languages">
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=bCharry15&theme=tokyonight&hide_border=true&background=0B0F19" alt="GitHub streak">
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bCharry15&theme=tokyo-night&hide_border=true&bg_color=0B0F19&area=true" alt="Contribution graph" width="100%">
 
 </div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./art/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./art/header-light.svg">
+  <img alt="Popayán, Colombia · Open to Opportunities" src="./art/header-dark.svg" width="100%">
+</picture>
+
+<p align="center"><sub>📍 Popayán, Colombia · Open to Opportunities</sub></p>
