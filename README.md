@@ -22,27 +22,20 @@
 
 I'm **Brayan Stiven Charry Vela**, a **Systems Engineering student at Universidad del Cauca (Colombia)** focused on **backend development, web applications, and applied AI & statistical analysis**.
 
-- 🔐 **Backend & Security:** REST APIs, domain business rules, persistence, and role-based access control (**Java, Spring Boot, Go, Keycloak, OAuth2, JWT**).
-- 🌐 **Web Interfaces:** Responsive applications and API integrations (**Angular, Vue 3, TypeScript**).
-- 🤖 **AI & Statistical Modeling:** Agentic and retrieval workflows (**LangChain, LangGraph, RAG**) plus regression, probability, and simulation in **Python**.
-- 🧱 **Architecture & Quality:** Modular monoliths, **ports and adapters**, automated testing (**JUnit 5, Mockito**), **Git**, and **Docker**.
+<img src="./art/credentials.svg" width="100%" alt="Credentials: Universidad del Cauca, Popayán Colombia, Pull Shark, Backend · AI · Cloud">
+
+<table>
+  <tr>
+    <td width="50%"><img src="./art/focus-backend.svg" width="100%" alt="Backend & Security"></td>
+    <td width="50%"><img src="./art/focus-web.svg" width="100%" alt="Web Interfaces"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./art/focus-ai.svg" width="100%" alt="AI & Statistical Modeling"></td>
+    <td width="50%"><img src="./art/focus-arch.svg" width="100%" alt="Architecture & Quality"></td>
+  </tr>
+</table>
 
 > *Focused on clear separation of responsibilities, secure access boundaries, and maintainable systems that can evolve cleanly.*
-
----
-
-### `// WHOAMI`
-
-```bash
-brayan@cauca:~$ whoami
-> Systems Engineering student · Universidad del Cauca
-
-brayan@cauca:~$ focus --now
-> Backend · Software architecture · AI agents · DevOps & Cloud
-
-brayan@cauca:~$ location
-> Popayán, Colombia 🇨🇴
-```
 
 <img src="./art/divider.svg" width="100%" alt="">
 
@@ -116,21 +109,16 @@ flowchart LR
 
 <div align="center">
 
-<!-- GitSkins: tarjetas animadas con tus datos reales de GitHub -->
-<img src="https://www.gitskins.com/api/section/stats?username=bCharry15&theme=cyber&style=aura" alt="GitSkins stats" width="100%">
-
-<img src="https://www.gitskins.com/api/section/heatmap?username=bCharry15&theme=cyber&style=aura" alt="GitSkins contribution heatmap" width="100%">
-
-<!--
-  Opcionales (quita las flechas de comentario para probar):
-  <img src="https://www.gitskins.com/api/section/stack?username=bCharry15&theme=cyber&style=aura" alt="GitSkins stack" width="100%">
-  Temas disponibles: cyber, studio, divine, frosted, matrix
--->
-
-<!-- Respaldo: si las tarjetas de GitSkins no cargan, usa estas
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=bCharry15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&count_private=true" alt="GitHub stats">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bCharry15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19" alt="Top languages">
+
+<br>
+
 <img src="https://streak-stats.demolab.com?user=bCharry15&theme=tokyonight&hide_border=true&background=0B0F19" alt="GitHub streak">
--->
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bCharry15&theme=tokyo-night&hide_border=true&bg_color=0B0F19&area=true" alt="Contribution graph" width="100%">
 
 </div>
 
